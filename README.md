@@ -4,7 +4,6 @@ Java Full Stack Developer | BCA Student | Competitive Programming Enthusiast
 
 🚀 I’m a passionate Full Stack Developer actively pursuing Java while mastering HTML, CSS, JavaScript, and learning Data Structures and Algorithms (DSA).
 
-
 📜 About Me
 
 •	🎓 BCA Student at IGNOU (Indira Gandhi National Open University)
