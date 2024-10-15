@@ -22,7 +22,7 @@ Java Full Stack Developer | BCA Student | Competitive Programming Enthusiast
 
 🚧 Projects
 
-	•	Project Travel: A clone website of Amazon created using HTML, CSS,
+	•	Project Amazon: A clone website of Amazon created using HTML, CSS,
 	•	Portfolio Website: My personal portfolio showcasing my projects and skills (Coming soon)
 	•	JavaScript Practice Repo: Daily practice repository for JavaScript fundamentals and algorithms (In progress)
 
